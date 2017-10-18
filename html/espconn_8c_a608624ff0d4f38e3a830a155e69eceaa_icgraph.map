@@ -1,9 +1,9 @@
 <map id="espconn_copy_partial" name="espconn_copy_partial">
-<area shape="rect" id="node2" href="$espconn__tcp_8c.html#acf0ecfba42ea8bcc55836b8dccabe511" title="espconn_tcp_accept" alt="" coords="218,5,362,32"/>
-<area shape="rect" id="node5" href="$espconn__tcp_8c.html#a20affdc6c469b20f65d27e24d6ba6bc1" title="espconn_tcp_disconnect\l_successful" alt="" coords="205,57,375,98"/>
-<area shape="rect" id="node8" href="$espconn__tcp_8c.html#ae7340333afa97bbdba4ae018539f8a1a" title="espconn_tcp_reconnect" alt="" coords="208,123,372,149"/>
-<area shape="rect" id="node3" href="$espconn__tcp_8c.html#ace125fa28aced169fba2b955f1ce76fb" title="espconn_tcp_server" alt="" coords="423,5,565,32"/>
-<area shape="rect" id="node4" href="$sdk_2include_2espconn_8h.html#abd44446e3fc4a61fdef77d473deb678b" title="espconn_accept" alt="" coords="613,5,732,32"/>
-<area shape="rect" id="node6" href="$espconn__tcp_8c.html#a658001fa320693943742066d8870a1b9" title="espconn_Task" alt="" coords="439,93,549,120"/>
-<area shape="rect" id="node7" href="$espconn__tcp_8c.html#a86c6dca784d0ca2d55af8567a7968406" title="espconn_init" alt="" coords="624,93,721,120"/>
+<area shape="rect" id="node2" href="$espconn__tcp_8c.html#acf0ecfba42ea8bcc55836b8dccabe511" title="espconn_tcp_accept" alt="" coords="181,5,295,32"/>
+<area shape="rect" id="node5" href="$espconn__tcp_8c.html#a20affdc6c469b20f65d27e24d6ba6bc1" title="espconn_tcp_disconnect\l_successful" alt="" coords="172,57,304,98"/>
+<area shape="rect" id="node8" href="$espconn__tcp_8c.html#ae7340333afa97bbdba4ae018539f8a1a" title="espconn_tcp_reconnect" alt="" coords="174,123,302,149"/>
+<area shape="rect" id="node3" href="$espconn__tcp_8c.html#ace125fa28aced169fba2b955f1ce76fb" title="espconn_tcp_server" alt="" coords="352,5,464,32"/>
+<area shape="rect" id="node4" href="$sdk_2include_2espconn_8h.html#abd44446e3fc4a61fdef77d473deb678b" title="espconn_accept" alt="" coords="512,5,607,32"/>
+<area shape="rect" id="node6" href="$espconn__tcp_8c.html#a658001fa320693943742066d8870a1b9" title="espconn_Task" alt="" coords="365,93,451,120"/>
+<area shape="rect" id="node7" href="$espconn__tcp_8c.html#a86c6dca784d0ca2d55af8567a7968406" title="espconn_init" alt="" coords="520,93,599,120"/>
 </map>

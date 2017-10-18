@@ -58,7 +58,7 @@ $(function() {
 
 <div id="nav-path" class="navpath">
   <ul>
-<li class="navelem"><a class="el" href="dir_2584a8ef173e30cec0336a2c92688588.html">user</a></li>  </ul>
+<li class="navelem"><a class="el" href="dir_569eb1bb07b135fdf44a4bb6216a0e27.html">user</a></li>  </ul>
 </div>
 </div><!-- top -->
 <div class="header">
@@ -71,7 +71,8 @@ $(function() {
 <div class="textblock"><div class="dynheader">
 This graph shows which files directly or indirectly include this file:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="unix__time_8h__dep__incl.svg" width="979" height="127"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="unix__time_8h__dep__incl.svg" width="802" height="127"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
 </div>
 </div>
 <p><a href="unix__time_8h_source.html">Go to the source code of this file.</a></p>
@@ -112,12 +113,14 @@ Functions</h2></td></tr>
 </div><!-- fragment --><div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="unix__time_8h_a36607dbd5be7bee11f8c20932b3df407_cgraph.svg" width="355" height="38"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="unix__time_8h_a36607dbd5be7bee11f8c20932b3df407_cgraph.svg" width="292" height="38"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
 </div>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="unix__time_8h_a36607dbd5be7bee11f8c20932b3df407_icgraph.svg" width="527" height="392"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="unix__time_8h_a36607dbd5be7bee11f8c20932b3df407_icgraph.svg" width="438" height="248"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
 </div>
 
 </div>
@@ -142,7 +145,7 @@ Here is the caller graph for this function:</div>
 
 <p class="reference">References <a class="el" href="unix__time_8c_source.html#l00009">current_unix_time</a>, <a class="el" href="unix__time_8c_source.html#l00008">init_time</a>, <a class="el" href="unix__time_8c_source.html#l00010">ntp_offline_second_counter</a>, and <a class="el" href="esp-open-lwip_2include_2lwip_2sntp_8h.html#a557f2d3fcbc53da30e4f1b51ea5842e7">sntp_get_current_timestamp()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="watchdog_8c_source.html#l00134">add_watchdog()</a>, <a class="el" href="watchdog_8c_source.html#l00173">reset_watchdog()</a>, and <a class="el" href="watchdog_8c_source.html#l00053">watchdog_timer_func()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="watchdog_8c_source.html#l00155">add_watchdog()</a>, <a class="el" href="watchdog_8c_source.html#l00194">reset_watchdog()</a>, and <a class="el" href="watchdog_8c_source.html#l00072">watchdog_timer_func()</a>.</p>
 <div class="fragment"><div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160;                                            {</div><div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160;    <a class="code" href="unix__time_8c.html#a3f79f6c532b00d7971b55e365f8783d0">current_unix_time</a> = <a class="code" href="esp-open-lwip_2include_2lwip_2sntp_8h.html#a557f2d3fcbc53da30e4f1b51ea5842e7">sntp_get_current_timestamp</a>();</div><div class="line"><a name="l00063"></a><span class="lineno">   63</span>&#160;    <span class="keywordflow">if</span> (<a class="code" href="unix__time_8c.html#ae6e8ccf386403926abd7f901dd0b87ad">init_time</a> == 0) {</div><div class="line"><a name="l00064"></a><span class="lineno">   64</span>&#160;        <span class="keywordflow">return</span> <a class="code" href="unix__time_8c.html#a2fb24c7725692ff387e54e07078ddebd">ntp_offline_second_counter</a>;</div><div class="line"><a name="l00065"></a><span class="lineno">   65</span>&#160;    }</div><div class="line"><a name="l00066"></a><span class="lineno">   66</span>&#160;    <span class="keywordflow">else</span> {</div><div class="line"><a name="l00067"></a><span class="lineno">   67</span>&#160;        <span class="keywordflow">return</span> <a class="code" href="unix__time_8c.html#a3f79f6c532b00d7971b55e365f8783d0">current_unix_time</a> - <a class="code" href="unix__time_8c.html#ae6e8ccf386403926abd7f901dd0b87ad">init_time</a> + <a class="code" href="unix__time_8c.html#a2fb24c7725692ff387e54e07078ddebd">ntp_offline_second_counter</a>;</div><div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;    }</div><div class="line"><a name="l00069"></a><span class="lineno">   69</span>&#160;}</div><div class="ttc" id="esp-open-lwip_2include_2lwip_2sntp_8h_html_a557f2d3fcbc53da30e4f1b51ea5842e7"><div class="ttname"><a href="esp-open-lwip_2include_2lwip_2sntp_8h.html#a557f2d3fcbc53da30e4f1b51ea5842e7">sntp_get_current_timestamp</a></div><div class="ttdeci">uint32 sntp_get_current_timestamp()</div></div>
 <div class="ttc" id="unix__time_8c_html_ae6e8ccf386403926abd7f901dd0b87ad"><div class="ttname"><a href="unix__time_8c.html#ae6e8ccf386403926abd7f901dd0b87ad">init_time</a></div><div class="ttdeci">uint32_t init_time</div><div class="ttdef"><b>Definition:</b> <a href="unix__time_8c_source.html#l00008">unix_time.c:8</a></div></div>
 <div class="ttc" id="unix__time_8c_html_a2fb24c7725692ff387e54e07078ddebd"><div class="ttname"><a href="unix__time_8c.html#a2fb24c7725692ff387e54e07078ddebd">ntp_offline_second_counter</a></div><div class="ttdeci">uint32_t ntp_offline_second_counter</div><div class="ttdef"><b>Definition:</b> <a href="unix__time_8c_source.html#l00010">unix_time.c:10</a></div></div>
@@ -150,12 +153,14 @@ Here is the caller graph for this function:</div>
 </div><!-- fragment --><div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="unix__time_8h_af98c0bacc67f2d0702b0ac4f130faa16_cgraph.svg" width="338" height="38"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="unix__time_8h_af98c0bacc67f2d0702b0ac4f130faa16_cgraph.svg" width="280" height="38"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
 </div>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="unix__time_8h_af98c0bacc67f2d0702b0ac4f130faa16_icgraph.svg" width="456" height="139"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="unix__time_8h_af98c0bacc67f2d0702b0ac4f130faa16_icgraph.svg" width="386" height="139"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
 </div>
 
 </div>
@@ -195,7 +200,8 @@ Here is the caller graph for this function:</div>
 </div><!-- fragment --><div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="unix__time_8h_a4423ebd43da9e32c1a8a599e6542c67b_cgraph.svg" width="560" height="256"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="unix__time_8h_a4423ebd43da9e32c1a8a599e6542c67b_cgraph.svg" width="464" height="256"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
 </div>
 
 </div>

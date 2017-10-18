@@ -72,6 +72,7 @@ var searchData=
   ['netio_2ec',['netio.c',['../netio_8c.html',1,'']]],
   ['netmask',['netmask',['../structip__info.html#a3f9e6d30f4ec10eefa7b51653e5c3da4',1,'ip_info::netmask()'],['../structnetif.html#a5192f2fa2533f13cfde07d9d5bb0db2b',1,'netif::netmask()']]],
   ['network_5frestart',['NETWORK_RESTART',['../watchdog_8h.html#ac3bef904ac288d561a5ab06c69f83583a276f4e7b3a5fd8528e3946dcb480c455',1,'watchdog.h']]],
+  ['network_5frestart_5fdelay',['NETWORK_RESTART_DELAY',['../watchdog_8h.html#a01fa5e40ae6391510d7b0b61064d9395',1,'watchdog.h']]],
   ['new_5fmode',['new_mode',['../struct_event___sta_mode___auth_mode___change__t.html#ac49c13dd869f2247eb8b9c2016b6fda7',1,'Event_StaMode_AuthMode_Change_t']]],
   ['next',['next',['../structnetif.html#ae77736b64df442242795220d76be6b86',1,'netif::next()'],['../structpbuf.html#a5e5763c94fd18d78937b0b58ce7df341',1,'pbuf::next()'],['../structsys__timeo.html#addfc1875758f06d6036f5dda30beed9e',1,'sys_timeo::next()'],['../structmem.html#a5abf13a11156e92c417f7ff66ef0b5cf',1,'mem::next()'],['../structmemp.html#a86abb86558e1cdee1bd2382f0323654d',1,'memp::next()']]],
   ['nextbuff',['nextBuff',['../struct_uart_buffer.html#a8edcf6d122aeec35c88681435ba9c35d',1,'UartBuffer']]],

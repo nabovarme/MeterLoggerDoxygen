@@ -27,6 +27,7 @@ var searchData=
   ['netif_5flink_5fcallback',['NETIF_LINK_CALLBACK',['../netif_8c.html#aa4ea2644fa9858891412e976a24a0179',1,'netif.c']]],
   ['netif_5fmax_5fhwaddr_5flen',['NETIF_MAX_HWADDR_LEN',['../netif_8h.html#ab887a8ec553de1be1d04cf2961c63c41',1,'netif.h']]],
   ['netif_5fstatus_5fcallback',['NETIF_STATUS_CALLBACK',['../netif_8c.html#a67d78318251432e9e4416f7ceab23ecb',1,'netif.c']]],
+  ['network_5frestart_5fdelay',['NETWORK_RESTART_DELAY',['../watchdog_8h.html#a01fa5e40ae6391510d7b0b61064d9395',1,'watchdog.h']]],
   ['nk',['Nk',['../aes_8c.html#a7b1938df390b1afe917e8baa663c22af',1,'aes.c']]],
   ['no_5fbits',['NO_BITS',['../lib_2heatshrink_2heatshrink__decoder_8c.html#a32978f006f6d66afa1e8198dc0d3bf6e',1,'heatshrink_decoder.c']]],
   ['no_5fsys',['NO_SYS',['../opt_8h.html#ae00ba99de94a5bf84d832be8976df59b',1,'NO_SYS():&#160;opt.h'],['../lwipopts_8h.html#ae00ba99de94a5bf84d832be8976df59b',1,'NO_SYS():&#160;lwipopts.h']]],

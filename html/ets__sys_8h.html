@@ -75,12 +75,13 @@ $(function() {
 </div><div class="textblock"><div class="dynheader">
 Include dependency graph for ets_sys.h:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="ets__sys_8h__incl.svg" width="248" height="187"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="ets__sys_8h__incl.svg" width="212" height="187"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+</div>
 </div>
 </div><div class="textblock"><div class="dynheader">
 This graph shows which files directly or indirectly include this file:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" frameborder="0" src="ets__sys_8h__dep__incl.svg" width="3956" height="634"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
+<div class="center"><iframe scrolling="no" frameborder="0" src="ets__sys_8h__dep__incl.svg" width="3070" height="634"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
 </div>
 </div>
 </div>
@@ -123,7 +124,7 @@ Macros</h2></td></tr>
 <tr class="separator:ae05cdf8bb2481e44ebf01440070f0c38"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aef9df60b42c85b9690dd82ec71051582"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="ets__sys_8h.html#aef9df60b42c85b9690dd82ec71051582">ETS_SPI_INTR_ATTACH</a>(func,  arg)&#160;&#160;&#160;ets_isr_attach(<a class="el" href="ets__sys_8h.html#af23f1ea4b5db3611dcb6d44db77095e6">ETS_SPI_INUM</a>, (func), (void *)(arg))</td></tr>
 <tr class="separator:aef9df60b42c85b9690dd82ec71051582"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae28dbb5877358e87bfb900d231ba4ec0"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="ets__sys_8h.html#ae28dbb5877358e87bfb900d231ba4ec0">ETS_INTR_ENABLE</a>(inum)&#160;&#160;&#160;ets_isr_unmask((1&lt;&lt;inum))</td></tr>
+<tr class="memitem:ae28dbb5877358e87bfb900d231ba4ec0"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="ets__sys_8h.html#ae28dbb5877358e87bfb900d231ba4ec0">ETS_INTR_ENABLE</a>(inum)&#160;&#160;&#160;<a class="el" href="esp8266_8h.html#ab2c8a1bcd6808db814837523724903f8">ets_isr_unmask</a>((1&lt;&lt;inum))</td></tr>
 <tr class="separator:ae28dbb5877358e87bfb900d231ba4ec0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa4c357aefadea3024b1051be4df9e81a"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="ets__sys_8h.html#aa4c357aefadea3024b1051be4df9e81a">ETS_INTR_DISABLE</a>(inum)&#160;&#160;&#160;ets_isr_mask((1&lt;&lt;inum))</td></tr>
 <tr class="separator:aa4c357aefadea3024b1051be4df9e81a"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -385,7 +386,7 @@ Typedefs</h2></td></tr>
           <td>(</td>
           <td class="paramtype">&#160;</td>
           <td class="paramname">inum</td><td>)</td>
-          <td>&#160;&#160;&#160;ets_isr_unmask((1&lt;&lt;inum))</td>
+          <td>&#160;&#160;&#160;<a class="el" href="esp8266_8h.html#ab2c8a1bcd6808db814837523724903f8">ets_isr_unmask</a>((1&lt;&lt;inum))</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -644,7 +645,7 @@ Typedefs</h2></td></tr>
 
 <p class="definition">Definition at line <a class="el" href="ets__sys_8h_source.html#l00081">81</a> of file <a class="el" href="ets__sys_8h_source.html">ets_sys.h</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="uart_8c_source.html#l00041">uart_config()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="uart_8c_source.html#l00039">uart_config()</a>.</p>
 
 </div>
 </div>
@@ -684,7 +685,7 @@ Typedefs</h2></td></tr>
 
 <p class="definition">Definition at line <a class="el" href="ets__sys_8h_source.html#l00093">93</a> of file <a class="el" href="ets__sys_8h_source.html">ets_sys.h</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="uart_8c_source.html#l00275">uart_init()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="uart_8c_source.html#l00273">uart_init()</a>.</p>
 
 </div>
 </div>

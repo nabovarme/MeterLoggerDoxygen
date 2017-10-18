@@ -4,7 +4,7 @@ var searchData=
   ['last_5ffill_5fcnt',['last_fill_cnt',['../queue_8c.html#abd353c9b9dc287069c96a4feb08e30ef',1,'queue.c']]],
   ['last_5frb_5fp_5fr',['last_rb_p_r',['../queue_8c.html#a0002302c9ce02dece1bbab9707344c03',1,'queue.c']]],
   ['last_5frb_5fp_5fw',['last_rb_p_w',['../queue_8c.html#a171bc1695e771b62291a84ddab1ac70f',1,'queue.c']]],
-  ['last_5freset',['last_reset',['../structwatchdog__t.html#ad815b836b9d89a1e3830ac553144fefb',1,'watchdog_t']]],
+  ['last_5freset',['last_reset',['../structwatchdog__t.html#a006a815ad6d7236f121be81c62f2d744',1,'watchdog_t']]],
   ['lease_5ftimer',['lease_timer',['../structdhcps__pool.html#a2c76ad0519e095a759b497b3bd88c34f',1,'dhcps_pool']]],
   ['led_2ec',['led.c',['../led_8c.html',1,'']]],
   ['led_2eh',['led.h',['../led_8h.html',1,'']]],

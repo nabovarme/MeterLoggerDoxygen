@@ -38,6 +38,7 @@ var searchData=
   ['die',['die',['../heatshrink_8c.html#aae61ded03fcf9a4c3adfcd9937810266',1,'heatshrink.c']]],
   ['divide_5fstr_5fby_5f10',['divide_str_by_10',['../utils_8c.html#a83488e29965def270a8e27370ee5013a',1,'divide_str_by_10(char *str, char *decimal_str):&#160;utils.c'],['../utils_8h.html#a83488e29965def270a8e27370ee5013a',1,'divide_str_by_10(char *str, char *decimal_str):&#160;utils.c']]],
   ['divide_5fstr_5fby_5f100',['divide_str_by_100',['../utils_8c.html#ae7c507f8b417b23e187f267fd8a2adf2',1,'divide_str_by_100(char *str, char *decimal_str):&#160;utils.c'],['../utils_8h.html#ae7c507f8b417b23e187f267fd8a2adf2',1,'divide_str_by_100(char *str, char *decimal_str):&#160;utils.c']]],
+  ['divide_5fstr_5fby_5f1000',['divide_str_by_1000',['../utils_8c.html#a8cb2ca5a4a3230dd10f37e14a049a04e',1,'divide_str_by_1000(char *str, char *decimal_str):&#160;utils.c'],['../utils_8h.html#a8cb2ca5a4a3230dd10f37e14a049a04e',1,'divide_str_by_1000(char *str, char *decimal_str):&#160;utils.c']]],
   ['do_5findexing',['do_indexing',['../heatshrink__encoder_8c.html#a4d5eb19aee4b08addab0bdd80e1f62d8',1,'heatshrink_encoder.c']]],
   ['dump_5fbuf',['dump_buf',['../test__heatshrink__dynamic_8c.html#a207a5acdf4fa9fdd19285ed99e593ee7',1,'dump_buf(char *name, uint8_t *buf, uint16_t count):&#160;test_heatshrink_dynamic.c'],['../test__heatshrink__static_8c.html#a207a5acdf4fa9fdd19285ed99e593ee7',1,'dump_buf(char *name, uint8_t *buf, uint16_t count):&#160;test_heatshrink_static.c']]]
 ];

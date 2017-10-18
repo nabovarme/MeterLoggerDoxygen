@@ -43,6 +43,7 @@ var searchData=
   ['wifi_5fscan_5fis_5frunning',['wifi_scan_is_running',['../wifi_8h.html#aa472c6b7c4b18d171792da3df1be502e',1,'wifi_scan_is_running():&#160;wifi.c'],['../wifi_8c.html#aa472c6b7c4b18d171792da3df1be502e',1,'wifi_scan_is_running():&#160;wifi.c']]],
   ['wifi_5fscan_5fresult_5fcb_5fregister',['wifi_scan_result_cb_register',['../wifi_8h.html#afeaf1be4104084dfe9945cd262780e25',1,'wifi_scan_result_cb_register(wifi_scan_result_event_cb_t cb):&#160;wifi.c'],['../wifi_8c.html#afeaf1be4104084dfe9945cd262780e25',1,'wifi_scan_result_cb_register(wifi_scan_result_event_cb_t cb):&#160;wifi.c']]],
   ['wifi_5fscan_5fresult_5fcb_5funregister',['wifi_scan_result_cb_unregister',['../wifi_8h.html#ac18835d16683b6ddab2ef38de12c4c5f',1,'wifi_scan_result_cb_unregister():&#160;wifi.h'],['../wifi_8c.html#a5ca49e6386831cffe58dbcc5d8845cc5',1,'wifi_scan_result_cb_unregister(wifi_scan_result_event_cb_t cb):&#160;wifi.c']]],
+  ['wifi_5fscan_5ftimeout_5ftimer_5ffunc',['wifi_scan_timeout_timer_func',['../wifi_8c.html#a189ec83a0503a6fc45b102014a80403b',1,'wifi.c']]],
   ['wifi_5fscan_5ftimer_5ffunc',['wifi_scan_timer_func',['../wifi_8c.html#ae7011f25db54676b86fefe2caa450a4a',1,'wifi.c']]],
   ['wifi_5fsend_5fpkt_5ffreedom',['wifi_send_pkt_freedom',['../user__interface_8h.html#af40bb0e219aec9352496ee6370e29ae0',1,'user_interface.h']]],
   ['wifi_5fset_5fbroadcast_5fif',['wifi_set_broadcast_if',['../user__interface_8h.html#a8c885836b13272437fd242f95f91fa0e',1,'user_interface.h']]],
