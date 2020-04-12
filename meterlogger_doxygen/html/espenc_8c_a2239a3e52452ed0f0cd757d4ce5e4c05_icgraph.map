@@ -1,0 +1,10 @@
+<map id="chipEnable" name="chipEnable">
+<area shape="rect" id="node2" href="$espenc_8c.html#a89cd52367e9b45f6d73b2b562b5be92d" title="readBuf" alt="" coords="140,5,207,32"/>
+<area shape="rect" id="node7" href="$espenc_8c.html#a921bffb078028c3ee1dd910fd41ec53e" title="writeBuf" alt="" coords="305,56,376,83"/>
+<area shape="rect" id="node3" href="$espenc_8c.html#abad8eb65a3bbaacff290a354199cd349" title="enc28j60_handle_packets" alt="" coords="255,5,427,32"/>
+<area shape="rect" id="node4" href="$espenc_8c.html#a55dfa017402fc9454bf75d0536cb2425" title="enc_scoop_packets" alt="" coords="477,5,616,32"/>
+<area shape="rect" id="node5" href="$espenc_8c.html#a0f5c2a11efd2f3a3ba9dd104d632e594" title="swint_Task" alt="" coords="671,5,761,32"/>
+<area shape="rect" id="node6" href="$espenc_8c.html#a193505f7e2d8f132ca9698a32783fe93" title="espenc_init" alt="" coords="813,31,901,57"/>
+<area shape="rect" id="node8" href="$espenc_8c.html#abc96fe33660001538919e64fc237796f" title="enc28j60_link_output" alt="" coords="475,56,619,83"/>
+<area shape="rect" id="node9" href="$espenc_8c.html#a81a1bda1746cf556eca33a6ab92ea851" title="enc28j60_init" alt="" coords="667,56,765,83"/>
+</map>

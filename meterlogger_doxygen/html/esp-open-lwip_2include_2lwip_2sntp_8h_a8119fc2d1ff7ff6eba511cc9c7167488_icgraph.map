@@ -1,0 +1,7 @@
+<map id="sntp_stop" name="sntp_stop">
+<area shape="rect" id="node2" href="$unix__time_8h.html#af7a1ef4521ece2974392801501073cbc" title="destroy_unix_time" alt="" coords="132,31,260,57"/>
+<area shape="rect" id="node3" href="$utils_8h.html#abc584694613811efea7c661c9dcefe17" title="system_restart_defered" alt="" coords="308,31,467,57"/>
+<area shape="rect" id="node4" href="$cgiwifi_8c.html#a9d53126c0a5bdeb1318f081f1cca3a84" title="resetTimerCb" alt="" coords="523,5,624,32"/>
+<area shape="rect" id="node6" href="$mqtt__rpc_8h.html#ae3c71a438ecea4bb271bd1586af59452" title="mqtt_rpc_restart" alt="" coords="515,56,632,83"/>
+<area shape="rect" id="node5" href="$cgiwifi_8h.html#a7c655a56f56ecebad923c5c4daeb7f1a" title="cgiSetup" alt="" coords="680,5,753,32"/>
+</map>

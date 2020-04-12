@@ -1,0 +1,12 @@
+<map id="readOp" name="readOp">
+<area shape="rect" id="node2" href="$espenc_8c.html#a81a1bda1746cf556eca33a6ab92ea851" title="enc28j60_init" alt="" coords="623,168,721,195"/>
+<area shape="rect" id="node4" href="$espenc_8c.html#af925f259879dbba7c5d7b0eab062b34b" title="readRegByte" alt="" coords="117,168,216,195"/>
+<area shape="rect" id="node3" href="$espenc_8c.html#a193505f7e2d8f132ca9698a32783fe93" title="espenc_init" alt="" coords="769,207,857,233"/>
+<area shape="rect" id="node5" href="$espenc_8c.html#ae56f805c88da37e6a1471d779bc9bdb9" title="readReg" alt="" coords="288,143,359,169"/>
+<area shape="rect" id="node6" href="$espenc_8c.html#a6a6cf6fd5a57804e5c5f005babafbafd" title="readPhyByte" alt="" coords="275,193,372,220"/>
+<area shape="rect" id="node7" href="$espenc_8c.html#abc96fe33660001538919e64fc237796f" title="enc28j60_link_output" alt="" coords="431,219,575,245"/>
+<area shape="rect" id="node8" href="$espenc_8c.html#aebb49154d3d932c5ed1a81d6c1d45e1a" title="writePhy" alt="" coords="466,269,539,296"/>
+<area shape="rect" id="node9" href="$espenc_8c.html#a55dfa017402fc9454bf75d0536cb2425" title="enc_scoop_packets" alt="" coords="433,320,572,347"/>
+<area shape="rect" id="node11" href="$espenc_8c.html#a6e1c907e7ece2b9b08be005d9a78089c" title="interrupt_handler" alt="" coords="264,41,383,68"/>
+<area shape="rect" id="node10" href="$espenc_8c.html#a0f5c2a11efd2f3a3ba9dd104d632e594" title="swint_Task" alt="" coords="627,283,717,309"/>
+</map>

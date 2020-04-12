@@ -1,0 +1,7 @@
+<map id="stack_trace_last" name="stack_trace_last">
+<area shape="rect" id="node2" href="$exception__handler_8c.html#a2e046011a1fec4843b394a30be788b81" title="print_stack" alt="" coords="172,5,259,32"/>
+<area shape="rect" id="node3" href="$exception__handler_8c.html#ad7392f29fdb9ff04315bdc1ce1a81ad9" title="print_reason" alt="" coords="307,5,400,32"/>
+<area shape="rect" id="node4" href="$exception__handler_8c.html#a4ce27bb819b79646b07f435f96c7bf93" title="exception_handler" alt="" coords="448,5,575,32"/>
+<area shape="rect" id="node5" href="$exception__handler_8h.html#a2e398672b972b305c3c493fef388989f" title="exception_handler_init" alt="" coords="623,5,773,32"/>
+<area shape="rect" id="node6" href="$mqtt__rpc_8h.html#ae3c71a438ecea4bb271bd1586af59452" title="mqtt_rpc_restart" alt="" coords="821,5,939,32"/>
+</map>

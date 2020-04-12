@@ -1,0 +1,8 @@
+<map id="ext_spi_init" name="ext_spi_init">
+<area shape="rect" id="node2" href="$ext__spi__flash_8c.html#a03be11e520e50ac108d9b74a09b25eaf" title="ext_spi_flash_id" alt="" coords="146,5,262,32"/>
+<area shape="rect" id="node4" href="$spi_8c.html#abe2becfd7876ae0dae398b6ba50cade3" title="spi_clock" alt="" coords="165,56,243,83"/>
+<area shape="rect" id="node5" href="$spi_8c.html#a007018d09bc43ec6e4d5614bcc943334" title="spi_init_gpio" alt="" coords="157,107,251,133"/>
+<area shape="rect" id="node6" href="$spi_8c.html#acfa45a83322cfa93f1de5e872a1f0fb3" title="spi_rx_byte_order" alt="" coords="141,157,267,184"/>
+<area shape="rect" id="node7" href="$spi_8c.html#a5ebc44f7360d551888843c00376e0de5" title="spi_tx_byte_order" alt="" coords="141,208,267,235"/>
+<area shape="rect" id="node3" href="$spi_8c.html#acebb579091ca980f217d3e5f3bd1f1d5" title="spi_transaction" alt="" coords="315,5,425,32"/>
+</map>

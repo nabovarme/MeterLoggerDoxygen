@@ -1,0 +1,18 @@
+<map id="user/rfinit.c" name="user/rfinit.c">
+<area shape="rect" id="node2" href="$ets__sys_8h.html" title="ets_sys.h" alt="" coords="217,752,295,779"/>
+<area shape="rect" id="node7" href="$osapi_8h.html" title="osapi.h" alt="" coords="331,603,395,629"/>
+<area shape="rect" id="node11" href="$user__interface_8h.html" title="user_interface.h" alt="" coords="244,80,359,107"/>
+<area shape="rect" id="node3" href="$c__types_8h.html" title="c_types.h" alt="" coords="103,827,182,853"/>
+<area shape="rect" id="node6" href="$eagle__soc_8h.html" title="eagle_soc.h" alt="" coords="210,827,302,853"/>
+<area shape="rect" id="node9" href="$os__type_8h.html" title="os_type.h" alt="" coords="222,677,301,704"/>
+<area shape="rect" id="node12" href="$esp-open-lwip_2include_2lwip_2ip__addr_8h.html" title="lwip/ip_addr.h" alt="" coords="250,155,353,181"/>
+<area shape="rect" id="node19" href="$esp-open-sdk_2sdk_2include_2queue_8h.html" title="queue.h" alt="" coords="377,155,445,181"/>
+<area shape="rect" id="node20" href="$spi__flash_8h.html" title="spi_flash.h" alt="" coords="5,155,91,181"/>
+<area shape="rect" id="node21" href="$gpio_8h.html" title="gpio.h" alt="" coords="115,155,173,181"/>
+<area shape="rect" id="node13" href="$opt_8h.html" title="lwip/opt.h" alt="" coords="285,304,363,331"/>
+<area shape="rect" id="node18" href="$def_8h.html" title="lwip/def.h" alt="" coords="339,229,418,256"/>
+<area shape="rect" id="node14" href="$lwipopts_8h.html" title="lwipopts.h" alt="" coords="249,453,330,480"/>
+<area shape="rect" id="node15" href="$esp-open-sdk_2esp-open-lwip_2include_2lwip_2debug_8h.html" title="lwip/debug.h" alt="" coords="299,379,394,405"/>
+<area shape="rect" id="node16" href="$arch_8h.html" title="lwip/arch.h" alt="" coords="355,453,440,480"/>
+<area shape="rect" id="node17" href="$cc_8h.html" title="arch/cc.h" alt="" coords="294,528,370,555"/>
+</map>

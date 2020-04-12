@@ -1,0 +1,9 @@
+<map id="writePhy" name="writePhy">
+<area shape="rect" id="node2" href="$espenc_8c.html#af925f259879dbba7c5d7b0eab062b34b" title="readRegByte" alt="" coords="251,31,349,57"/>
+<area shape="rect" id="node7" href="$espenc_8c.html#af50077520ab35a01792daf94a89c5b9a" title="writeReg" alt="" coords="127,81,201,108"/>
+<area shape="rect" id="node8" href="$espenc_8c.html#a9dde37e22459a5eb9237e0b3bd7b2fa8" title="writeRegByte" alt="" coords="249,107,351,133"/>
+<area shape="rect" id="node3" href="$espenc_8c.html#a655fbec696cb6a8e30069f066615d830" title="readOp" alt="" coords="520,5,584,32"/>
+<area shape="rect" id="node5" href="$espenc_8c.html#a7e04e867e5a788903adaca29045aa118" title="SetBank" alt="" coords="399,56,471,83"/>
+<area shape="rect" id="node4" href="$spi_8c.html#acebb579091ca980f217d3e5f3bd1f1d5" title="spi_transaction" alt="" coords="633,31,744,57"/>
+<area shape="rect" id="node6" href="$espenc_8c.html#aa384e05ea3543cb9fca318f6623952fc" title="writeOp" alt="" coords="519,56,585,83"/>
+</map>

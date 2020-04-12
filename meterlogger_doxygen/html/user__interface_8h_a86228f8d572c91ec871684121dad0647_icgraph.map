@@ -1,0 +1,26 @@
+<map id="system_get_chip_id" name="system_get_chip_id">
+<area shape="rect" id="node2" href="$config_8h.html#a92adb6c5103eed30e16185a9cd233e51" title="cfg_load" alt="" coords="192,385,263,412"/>
+<area shape="rect" id="node3" href="$config_8h.html#a240b5d7105d7dbf1d7054ad65cb9df40" title="cfg_save" alt="" coords="311,385,385,412"/>
+<area shape="rect" id="node25" href="$cgiwifi_8h.html#ace460e5ac8fd74afa8616bfc82561b26" title="tplSetup" alt="" coords="313,436,383,463"/>
+<area shape="rect" id="node4" href="$config_8h.html#abc69a1c540768c7c86b5d56c6d4cabd7" title="cfg_save_ssid_pwd" alt="" coords="445,259,582,285"/>
+<area shape="rect" id="node5" href="$cron_8c.html#a2782af03df9b913cfa565a0770e1afe1" title="minute_timer_func" alt="" coords="1073,157,1203,184"/>
+<area shape="rect" id="node8" href="$config_8h.html#a1e0d59e84f6bbc2564bcdf595b6972da" title="config_save_timer_func" alt="" coords="433,107,593,133"/>
+<area shape="rect" id="node12" href="$mqtt__rpc_8h.html#a44921185fc90cf7507f2eaf4fa48861a" title="mqtt_rpc_open_until" alt="" coords="1069,301,1207,328"/>
+<area shape="rect" id="node13" href="$mqtt__rpc_8h.html#a37edc063b829348999e78221ed0f247e" title="mqtt_rpc_open_until\l_delta" alt="" coords="1069,353,1207,394"/>
+<area shape="rect" id="node20" href="$cgiwifi_8h.html#a7c655a56f56ecebad923c5c4daeb7f1a" title="cgiSetup" alt="" coords="477,411,550,437"/>
+<area shape="rect" id="node21" href="$mqtt__rpc_8h.html#aa3b038b94189cb8a82fdc7e5115d90c8" title="mqtt_rpc_set_ssid" alt="" coords="449,461,578,488"/>
+<area shape="rect" id="node22" href="$mqtt__rpc_8h.html#a3384f5aa84b17fa3902e2aad318913d8" title="mqtt_rpc_set_pwd" alt="" coords="449,512,578,539"/>
+<area shape="rect" id="node23" href="$mqtt__rpc_8h.html#a1b7add080e121a194a82ca7fc1ac5d6a" title="mqtt_rpc_start_ap" alt="" coords="450,563,577,589"/>
+<area shape="rect" id="node24" href="$mqtt__rpc_8h.html#a3430aad3243898c167f694b4ad6e5cfd" title="mqtt_rpc_stop_ap" alt="" coords="450,613,577,640"/>
+<area shape="rect" id="node7" href="$mqtt__rpc_8h.html#a651f41878c47fd58b8ae08a49692d5d0" title="mqtt_rpc_set_ssid_pwd" alt="" coords="641,208,801,235"/>
+<area shape="rect" id="node6" href="$cron_8h.html#ae130c5973bad35b56776750c7a34db12" title="cron_init" alt="" coords="1256,157,1327,184"/>
+<area shape="rect" id="node9" href="$config_8h.html#ab4af9f95b39f096bb0fa8d73eb5a342e" title="cfg_save_defered" alt="" coords="659,107,784,133"/>
+<area shape="rect" id="node10" href="$ac__out_8h.html#a1573f96ac038a6a1b29a6f21403a2341" title="ac_thermo_open" alt="" coords="875,259,994,285"/>
+<area shape="rect" id="node14" href="$ac__out_8h.html#a3bc674b019d5e2e4d15e7abe7c69029f" title="ac_thermo_close" alt="" coords="874,107,995,133"/>
+<area shape="rect" id="node16" href="$cron_8h.html#abede8d12ed6e5d5f3412eda37b325d03" title="add_cron_job_from_query" alt="" coords="849,5,1020,32"/>
+<area shape="rect" id="node18" href="$cron_8h.html#ad014b7bf4eab144ea9fc5669d896714b" title="clear_cron_jobs" alt="" coords="878,56,991,83"/>
+<area shape="rect" id="node11" href="$mqtt__rpc_8h.html#ad2e0752f6412fe150ba20d806fe90e15" title="mqtt_rpc_open" alt="" coords="1084,251,1192,277"/>
+<area shape="rect" id="node15" href="$mqtt__rpc_8h.html#a05494e7f22df36d57595a00a9386c871" title="mqtt_rpc_close" alt="" coords="1083,107,1193,133"/>
+<area shape="rect" id="node17" href="$mqtt__rpc_8h.html#a5ede5df0880a2c3823a5c3757423678b" title="mqtt_rpc_set_cron" alt="" coords="1073,5,1203,32"/>
+<area shape="rect" id="node19" href="$mqtt__rpc_8h.html#a023697ad978d1154228e256583a147c0" title="mqtt_rpc_clear_cron" alt="" coords="1068,56,1208,83"/>
+</map>

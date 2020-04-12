@@ -1,0 +1,7 @@
+<map id="httpdStop" name="httpdStop">
+<area shape="rect" id="node2" href="$httpd_8c.html#aecb06813eefe322c349651aa5e1316f5" title="httpdDisconnectTimerFunc" alt="" coords="132,5,311,32"/>
+<area shape="rect" id="node3" href="$utils_8h.html#abc584694613811efea7c661c9dcefe17" title="system_restart_defered" alt="" coords="142,56,301,83"/>
+<area shape="rect" id="node4" href="$cgiwifi_8c.html#a9d53126c0a5bdeb1318f081f1cca3a84" title="resetTimerCb" alt="" coords="367,31,468,57"/>
+<area shape="rect" id="node6" href="$mqtt__rpc_8h.html#ae3c71a438ecea4bb271bd1586af59452" title="mqtt_rpc_restart" alt="" coords="359,81,476,108"/>
+<area shape="rect" id="node5" href="$cgiwifi_8h.html#a7c655a56f56ecebad923c5c4daeb7f1a" title="cgiSetup" alt="" coords="524,31,597,57"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="wifi_fallback_force_reset_state" name="wifi_fallback_force_reset_state">
+<area shape="rect" id="node2" href="$watchdog_8c.html#a47b6861ffbed37fef88aa644f10ba917" title="wifi_reconnect_timer_func" alt="" coords="184,31,359,57"/>
+<area shape="rect" id="node3" href="$watchdog_8h.html#a98ac743883b75c5bf36e0d6b0fe982fa" title="force_reset_wifi" alt="" coords="407,31,521,57"/>
+<area shape="rect" id="node4" href="$kmp__request_8c.html#a3f6b790a06b933b78f40ade5e9a16131" title="kmp_received_task" alt="" coords="575,5,710,32"/>
+<area shape="rect" id="node6" href="$watchdog_8c.html#aeb03c505b5b589ae4d89b2ae11dd1711" title="watchdog_timer_func" alt="" coords="569,56,716,83"/>
+<area shape="rect" id="node5" href="$kmp__request_8h.html#a048753ff9d6b448e2dcd8c85db0d6873" title="kmp_request_init" alt="" coords="764,5,885,32"/>
+<area shape="rect" id="node7" href="$watchdog_8h.html#ab148f2150b52df5b60e312dded3a2934" title="start_watchdog" alt="" coords="769,56,880,83"/>
+</map>

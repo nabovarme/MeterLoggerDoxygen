@@ -1,0 +1,6 @@
+<map id="readBuf" name="readBuf">
+<area shape="rect" id="node2" href="$espenc_8c.html#abad8eb65a3bbaacff290a354199cd349" title="enc28j60_handle_packets" alt="" coords="120,5,292,32"/>
+<area shape="rect" id="node3" href="$espenc_8c.html#a55dfa017402fc9454bf75d0536cb2425" title="enc_scoop_packets" alt="" coords="340,5,479,32"/>
+<area shape="rect" id="node4" href="$espenc_8c.html#a0f5c2a11efd2f3a3ba9dd104d632e594" title="swint_Task" alt="" coords="527,5,616,32"/>
+<area shape="rect" id="node5" href="$espenc_8c.html#a193505f7e2d8f132ca9698a32783fe93" title="espenc_init" alt="" coords="664,5,752,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="readPhyByte" name="readPhyByte">
+<area shape="rect" id="node2" href="$espenc_8c.html#af925f259879dbba7c5d7b0eab062b34b" title="readRegByte" alt="" coords="152,31,251,57"/>
+<area shape="rect" id="node7" href="$espenc_8c.html#a9dde37e22459a5eb9237e0b3bd7b2fa8" title="writeRegByte" alt="" coords="151,81,252,108"/>
+<area shape="rect" id="node3" href="$espenc_8c.html#a7e04e867e5a788903adaca29045aa118" title="SetBank" alt="" coords="300,56,372,83"/>
+<area shape="rect" id="node6" href="$espenc_8c.html#a655fbec696cb6a8e30069f066615d830" title="readOp" alt="" coords="421,5,485,32"/>
+<area shape="rect" id="node4" href="$espenc_8c.html#aa384e05ea3543cb9fca318f6623952fc" title="writeOp" alt="" coords="420,56,487,83"/>
+<area shape="rect" id="node5" href="$spi_8c.html#acebb579091ca980f217d3e5f3bd1f1d5" title="spi_transaction" alt="" coords="535,31,645,57"/>
+</map>

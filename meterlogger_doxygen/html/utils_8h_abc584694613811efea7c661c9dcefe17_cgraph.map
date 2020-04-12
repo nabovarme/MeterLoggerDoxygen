@@ -1,0 +1,22 @@
+<map id="system_restart_defered" name="system_restart_defered">
+<area shape="rect" id="node2" href="$captdns_8c.html#aa94930b306da4c43c4325612a8a538db" title="captdnsStop" alt="" coords="248,107,343,133"/>
+<area shape="rect" id="node4" href="$cron_8c.html#a969e116ae6a7f6d3f33d81dadcc29513" title="cron_destroy" alt="" coords="247,56,344,83"/>
+<area shape="rect" id="node5" href="$unix__time_8c.html#af7a1ef4521ece2974392801501073cbc" title="destroy_unix_time" alt="" coords="231,5,359,32"/>
+<area shape="rect" id="node7" href="$httpd_8c.html#afec8778692d2ecc547295eb197fa6fcd" title="httpdStop" alt="" coords="256,157,335,184"/>
+<area shape="rect" id="node11" href="$led_8c.html#a4eae1e968117705e5b0009646c192a5c" title="led_destroy" alt="" coords="251,208,340,235"/>
+<area shape="rect" id="node15" href="$wifi_8h.html#ac81e93c618b4a9528fb7689c85188763" title="set_my_auto_connect" alt="" coords="220,259,371,285"/>
+<area shape="rect" id="node16" href="$watchdog_8c.html#a57afb5aead34fee681690fbf4eda2935" title="stop_watchdog" alt="" coords="240,309,351,336"/>
+<area shape="rect" id="node17" href="$utils_8c.html#a4be4104f0ac51917937864a86cd6d6a6" title="system_restart_defered\l_timer_func" alt="" coords="216,361,375,402"/>
+<area shape="rect" id="node19" href="$wifi_8h.html#ad55b30fa5e69239ef162cc997e99dc7b" title="wifi_destroy" alt="" coords="249,427,341,453"/>
+<area shape="rect" id="node20" href="$user__interface_8h.html#a77323412cda193d0b8f18652e4d08e77" title="wifi_set_opmode_current" alt="" coords="212,477,379,504"/>
+<area shape="rect" id="node21" href="$user__interface_8h.html#aba69e9646b1f29d8a72972787400f4f1" title="wifi_station_disconnect" alt="" coords="216,528,375,555"/>
+<area shape="rect" id="node3" href="$esp-open-lwip_2include_2lwip_2app_2espconn_8h.html#a63d15dda14dfcd8da278c31f048910c3" title="espconn_delete" alt="" coords="459,56,573,83"/>
+<area shape="rect" id="node6" href="$esp-open-lwip_2include_2lwip_2sntp_8h.html#a8119fc2d1ff7ff6eba511cc9c7167488" title="sntp_stop" alt="" coords="477,5,555,32"/>
+<area shape="rect" id="node8" href="$esp-open-lwip_2include_2lwip_2app_2espconn_8h.html#a9969873c3b8ee86a34496a5166cf8bfc" title="espconn_disconnect" alt="" coords="445,157,587,184"/>
+<area shape="rect" id="node9" href="$httpd_8c.html#aecb06813eefe322c349651aa5e1316f5" title="httpdDisconnectTimerFunc" alt="" coords="427,208,605,235"/>
+<area shape="rect" id="node10" href="$httpd_8c.html#ab7a09edc1f3de2b70bf21ed275c22c61" title="httpdRetireConn" alt="" coords="457,107,575,133"/>
+<area shape="rect" id="node12" href="$led_8c.html#a7cd1d03b4baad9cb20bf1a43046f61a2" title="led_stop_pattern" alt="" coords="457,259,575,285"/>
+<area shape="rect" id="node13" href="$led_8c.html#a7ef0b27e501c77cd25b8bb7a2de6d8bd" title="led_off" alt="" coords="653,259,715,285"/>
+<area shape="rect" id="node14" href="$gpio_8h.html#a83bac74ff5b2158e0c86da73ada29718" title="gpio_output_set" alt="" coords="763,259,877,285"/>
+<area shape="rect" id="node18" href="$user__interface_8h.html#a80e0119dbfcaaa43025fe2135d3d1efc" title="system_restart" alt="" coords="461,368,571,395"/>
+</map>

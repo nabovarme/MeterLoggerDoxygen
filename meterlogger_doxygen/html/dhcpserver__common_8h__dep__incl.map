@@ -1,0 +1,11 @@
+<map id="esp&#45;open&#45;lwip/include/lwip/app/dhcpserver_common.h" name="esp&#45;open&#45;lwip/include/lwip/app/dhcpserver_common.h">
+<area shape="rect" id="node2" href="$dhcpserver_8h.html" title="esp&#45;open&#45;lwip/include\l/lwip/app/dhcpserver.h" alt="" coords="351,109,505,151"/>
+<area shape="rect" id="node9" href="$encdhcpserver_8h.html" title="esp&#45;open&#45;lwip/include\l/lwip/app/encdhcpserver.h" alt="" coords="657,109,831,151"/>
+<area shape="rect" id="node3" href="$wifi_8c.html" title="modules/wifi.c" alt="" coords="5,206,112,233"/>
+<area shape="rect" id="node4" href="$mqtt_8c.html" title="mqtt/mqtt.c" alt="" coords="137,206,226,233"/>
+<area shape="rect" id="node5" href="$captdns_8c.html" title="user/captdns.c" alt="" coords="250,206,358,233"/>
+<area shape="rect" id="node6" href="$httpd_8c.html" title="user/httpd.c" alt="" coords="383,206,473,233"/>
+<area shape="rect" id="node7" href="$httpdespfs_8c.html" title="user/httpdespfs.c" alt="" coords="497,206,620,233"/>
+<area shape="rect" id="node8" href="$dhcpserver_8c.html" title="esp&#45;open&#45;lwip/lwip\l/app/dhcpserver.c" alt="" coords="645,199,774,240"/>
+<area shape="rect" id="node10" href="$encdhcpserver_8c.html" title="esp&#45;open&#45;lwip/lwip\l/app/encdhcpserver.c" alt="" coords="799,199,945,240"/>
+</map>

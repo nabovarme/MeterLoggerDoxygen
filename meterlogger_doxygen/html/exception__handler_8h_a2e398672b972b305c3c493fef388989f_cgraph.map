@@ -1,0 +1,27 @@
+<map id="exception_handler_init" name="exception_handler_init">
+<area shape="rect" id="node2" href="$exception__handler_8c.html#a1c9b6a90ee9a9ad4fccb0ce94c6536c3" title="_xtos_set_exception\l_handler" alt="" coords="204,66,347,107"/>
+<area shape="rect" id="node3" href="$exception__handler_8c.html#a4ce27bb819b79646b07f435f96c7bf93" title="exception_handler" alt="" coords="212,132,339,159"/>
+<area shape="rect" id="node4" href="$exception__handler_8c.html#af8b076b97d7fd765618833c4125e3239" title="ets_wdt_disable" alt="" coords="415,31,531,57"/>
+<area shape="rect" id="node5" href="$exception__handler_8c.html#a49abdd9a7e4e115bab020597acd89f0a" title="ets_wdt_enable" alt="" coords="416,81,529,108"/>
+<area shape="rect" id="node6" href="$exception__handler_8c.html#ad7392f29fdb9ff04315bdc1ce1a81ad9" title="print_reason" alt="" coords="426,132,519,159"/>
+<area shape="rect" id="node25" href="$exception__handler_8c.html#a27a5f29786057530b64115aa0d469ebc" title="save_extra_sfrs_for\l_exception" alt="" coords="404,183,541,225"/>
+<area shape="rect" id="node26" href="$spi__flash_8h.html#a3210ddd52247977cff3d018bf34f9048" title="spi_flash_erase_sector" alt="" coords="395,249,551,276"/>
+<area shape="rect" id="node7" href="$exception__handler_8c.html#a61e45a6ae4196917090e563540e80cd2" title="getaregval" alt="" coords="601,56,683,83"/>
+<area shape="rect" id="node8" href="$exception__handler_8c.html#a2e046011a1fec4843b394a30be788b81" title="print_stack" alt="" coords="599,157,685,184"/>
+<area shape="rect" id="node9" href="$exception__handler_8c.html#a55df0a6f3d7521b2d15e0ac2de68fb17" title="stack_trace_append" alt="" coords="733,107,872,133"/>
+<area shape="rect" id="node12" href="$tinyprintf_8c.html#a9738cbc6c538d210941db282e240c7d6" title="tfp_snprintf" alt="" coords="759,208,846,235"/>
+<area shape="rect" id="node11" href="$exception__handler_8c.html#a6dd972687fcba7dedc66efa292a264f6" title="stack_trace_last" alt="" coords="743,157,862,184"/>
+<area shape="rect" id="node10" href="$spi__flash_8h.html#a97906813255238cdb0da4d21040abf90" title="spi_flash_write" alt="" coords="920,132,1029,159"/>
+<area shape="rect" id="node13" href="$tinyprintf_8c.html#ac8c8a66133cf0d7009c0d73b55311a44" title="tfp_vsnprintf" alt="" coords="927,208,1022,235"/>
+<area shape="rect" id="node14" href="$tinyprintf_8c.html#a5877e42444463efc71a91b5fe76a6145" title="tfp_format" alt="" coords="1094,183,1175,209"/>
+<area shape="rect" id="node24" href="$tinyprintf_8c.html#a919051024b2d729e34a54648b3f2462d" title="_vsnprintf_putcf" alt="" coords="1077,233,1192,260"/>
+<area shape="rect" id="node15" href="$tinyprintf_8c.html#aa97593a5e53af85b608ad0910db92d77" title="a2u" alt="" coords="1251,5,1293,32"/>
+<area shape="rect" id="node17" href="$tinyprintf_8c.html#abcf035dd576671b0cc897de9dd8c75b0" title="ulli2a" alt="" coords="1352,81,1404,108"/>
+<area shape="rect" id="node18" href="$tinyprintf_8c.html#a1d61347854a8c290d59b4a21efcefd75" title="uli2a" alt="" coords="1353,247,1403,273"/>
+<area shape="rect" id="node19" href="$tinyprintf_8c.html#ac87ff66a592723f55692eaf8e3f19df8" title="ui2a" alt="" coords="1355,323,1401,349"/>
+<area shape="rect" id="node20" href="$tinyprintf_8c.html#a6252dbfebb2c8783c4e3107d551082dd" title="putchw" alt="" coords="1240,208,1304,235"/>
+<area shape="rect" id="node21" href="$tinyprintf_8c.html#a49c6d2b3d4088012f2c1fe344eef69f3" title="lli2a" alt="" coords="1249,107,1295,133"/>
+<area shape="rect" id="node22" href="$tinyprintf_8c.html#afebb7696337c3f599b5e8db35c560684" title="li2a" alt="" coords="1251,157,1293,184"/>
+<area shape="rect" id="node23" href="$tinyprintf_8c.html#a90f9fd8f2133cda7f50be8d67823405c" title="i2a" alt="" coords="1253,360,1291,387"/>
+<area shape="rect" id="node16" href="$tinyprintf_8c.html#aa853a0c5ba64fa2546d488b86192e7e3" title="a2d" alt="" coords="1357,5,1399,32"/>
+</map>

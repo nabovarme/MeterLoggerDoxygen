@@ -1,0 +1,23 @@
+<map id="en61107_get_received_serial" name="en61107_get_received_serial">
+<area shape="rect" id="node2" href="$mqtt__rpc_8h.html#a7d1ed70e046b535e06c58675d4f1676b" title="mqtt_rpc_ap_status" alt="" coords="217,5,354,32"/>
+<area shape="rect" id="node3" href="$mqtt__rpc_8h.html#a023697ad978d1154228e256583a147c0" title="mqtt_rpc_clear_cron" alt="" coords="215,56,355,83"/>
+<area shape="rect" id="node4" href="$mqtt__rpc_8h.html#a1e120184f7f332e637fc9481bcf5ce89" title="mqtt_rpc_cron" alt="" coords="233,107,338,133"/>
+<area shape="rect" id="node5" href="$mqtt__rpc_8h.html#afbd8a015cb20feb245dfc778416af7e9" title="mqtt_rpc_crypto" alt="" coords="227,157,343,184"/>
+<area shape="rect" id="node6" href="$mqtt__rpc_8h.html#a29c5b0a22ebb1032363e20a1eb228d88" title="mqtt_rpc_mem" alt="" coords="231,208,340,235"/>
+<area shape="rect" id="node7" href="$mqtt__rpc_8h.html#a44921185fc90cf7507f2eaf4fa48861a" title="mqtt_rpc_open_until" alt="" coords="216,259,355,285"/>
+<area shape="rect" id="node8" href="$mqtt__rpc_8h.html#a37edc063b829348999e78221ed0f247e" title="mqtt_rpc_open_until\l_delta" alt="" coords="216,310,355,351"/>
+<area shape="rect" id="node9" href="$mqtt__rpc_8h.html#a0e5c92a93eaf9b2e3c2cd98c0fcbe65f" title="mqtt_rpc_ping" alt="" coords="233,376,337,403"/>
+<area shape="rect" id="node10" href="$mqtt__rpc_8h.html#aa21aaf34522e1a100a4120d9f63d2dad" title="mqtt_rpc_reset_reason" alt="" coords="208,427,363,453"/>
+<area shape="rect" id="node11" href="$mqtt__rpc_8h.html#ae3c71a438ecea4bb271bd1586af59452" title="mqtt_rpc_restart" alt="" coords="227,477,344,504"/>
+<area shape="rect" id="node12" href="$mqtt__rpc_8h.html#a9d2f80fe20656d22687c0414da46fcce" title="mqtt_rpc_rssi" alt="" coords="235,528,336,555"/>
+<area shape="rect" id="node13" href="$mqtt__rpc_8h.html#a5ede5df0880a2c3823a5c3757423678b" title="mqtt_rpc_set_cron" alt="" coords="220,579,351,605"/>
+<area shape="rect" id="node14" href="$mqtt__rpc_8h.html#a3384f5aa84b17fa3902e2aad318913d8" title="mqtt_rpc_set_pwd" alt="" coords="221,629,350,656"/>
+<area shape="rect" id="node15" href="$mqtt__rpc_8h.html#aa3b038b94189cb8a82fdc7e5115d90c8" title="mqtt_rpc_set_ssid" alt="" coords="221,680,350,707"/>
+<area shape="rect" id="node16" href="$mqtt__rpc_8h.html#a651f41878c47fd58b8ae08a49692d5d0" title="mqtt_rpc_set_ssid_pwd" alt="" coords="205,731,365,757"/>
+<area shape="rect" id="node17" href="$mqtt__rpc_8h.html#a93655988d0f1c02f278b77ab1bb57573" title="mqtt_rpc_ssid" alt="" coords="233,781,337,808"/>
+<area shape="rect" id="node18" href="$mqtt__rpc_8h.html#ab9db71238155955bc4dfbb2c7f93c9d2" title="mqtt_rpc_status" alt="" coords="227,832,343,859"/>
+<area shape="rect" id="node19" href="$mqtt__rpc_8h.html#acd6cfd98c940051391eb8c0bd2bbeca9" title="mqtt_rpc_uptime" alt="" coords="226,883,345,909"/>
+<area shape="rect" id="node20" href="$mqtt__rpc_8h.html#a550893f994cbbd9b6b745488f0c512ac" title="mqtt_rpc_vdd" alt="" coords="235,933,336,960"/>
+<area shape="rect" id="node21" href="$mqtt__rpc_8h.html#a6c4d0371a5542aa2dc9543fc7b829436" title="mqtt_rpc_version" alt="" coords="224,984,347,1011"/>
+<area shape="rect" id="node22" href="$mqtt__rpc_8h.html#a482a5f229bd1fac0511a057bbf4363f2" title="mqtt_rpc_wifi_status" alt="" coords="214,1035,357,1061"/>
+</map>

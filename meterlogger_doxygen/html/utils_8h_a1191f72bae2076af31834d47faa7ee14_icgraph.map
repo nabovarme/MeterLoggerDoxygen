@@ -1,0 +1,30 @@
+<map id="multiply_str_by_1000" name="multiply_str_by_1000">
+<area shape="rect" id="node2" href="$en61107__request_8h.html#a7573f72305a85d468632092ee8c9e6ec" title="en61107_get_received\l_serial" alt="" coords="199,530,351,571"/>
+<area shape="rect" id="node8" href="$mqtt__rpc_8h.html#a44921185fc90cf7507f2eaf4fa48861a" title="mqtt_rpc_open_until" alt="" coords="409,5,548,32"/>
+<area shape="rect" id="node9" href="$mqtt__rpc_8h.html#a37edc063b829348999e78221ed0f247e" title="mqtt_rpc_open_until\l_delta" alt="" coords="607,1113,745,1154"/>
+<area shape="rect" id="node24" href="$kmp__request_8c.html#a3f6b790a06b933b78f40ade5e9a16131" title="kmp_received_task" alt="" coords="411,1237,546,1264"/>
+<area shape="rect" id="node26" href="$utils_8h.html#a84a001f12bbadea0d207701a1dfd63fa" title="kw_to_w_str" alt="" coords="227,1069,323,1096"/>
+<area shape="rect" id="node28" href="$utils_8h.html#a62fc702fb96c26c2d2acef69ff0b1650" title="mw_to_kw_str" alt="" coords="221,1179,328,1205"/>
+<area shape="rect" id="node3" href="$mqtt__rpc_8h.html#a7d1ed70e046b535e06c58675d4f1676b" title="mqtt_rpc_ap_status" alt="" coords="410,309,547,336"/>
+<area shape="rect" id="node4" href="$mqtt__rpc_8h.html#a023697ad978d1154228e256583a147c0" title="mqtt_rpc_clear_cron" alt="" coords="409,360,549,387"/>
+<area shape="rect" id="node5" href="$mqtt__rpc_8h.html#a1e120184f7f332e637fc9481bcf5ce89" title="mqtt_rpc_cron" alt="" coords="426,411,531,437"/>
+<area shape="rect" id="node6" href="$mqtt__rpc_8h.html#afbd8a015cb20feb245dfc778416af7e9" title="mqtt_rpc_crypto" alt="" coords="421,461,537,488"/>
+<area shape="rect" id="node7" href="$mqtt__rpc_8h.html#a29c5b0a22ebb1032363e20a1eb228d88" title="mqtt_rpc_mem" alt="" coords="424,512,533,539"/>
+<area shape="rect" id="node10" href="$mqtt__rpc_8h.html#a0e5c92a93eaf9b2e3c2cd98c0fcbe65f" title="mqtt_rpc_ping" alt="" coords="427,563,531,589"/>
+<area shape="rect" id="node11" href="$mqtt__rpc_8h.html#aa21aaf34522e1a100a4120d9f63d2dad" title="mqtt_rpc_reset_reason" alt="" coords="401,613,556,640"/>
+<area shape="rect" id="node12" href="$mqtt__rpc_8h.html#ae3c71a438ecea4bb271bd1586af59452" title="mqtt_rpc_restart" alt="" coords="420,664,537,691"/>
+<area shape="rect" id="node13" href="$mqtt__rpc_8h.html#a9d2f80fe20656d22687c0414da46fcce" title="mqtt_rpc_rssi" alt="" coords="428,715,529,741"/>
+<area shape="rect" id="node14" href="$mqtt__rpc_8h.html#a5ede5df0880a2c3823a5c3757423678b" title="mqtt_rpc_set_cron" alt="" coords="413,765,544,792"/>
+<area shape="rect" id="node15" href="$mqtt__rpc_8h.html#a3384f5aa84b17fa3902e2aad318913d8" title="mqtt_rpc_set_pwd" alt="" coords="414,816,543,843"/>
+<area shape="rect" id="node16" href="$mqtt__rpc_8h.html#aa3b038b94189cb8a82fdc7e5115d90c8" title="mqtt_rpc_set_ssid" alt="" coords="414,867,543,893"/>
+<area shape="rect" id="node17" href="$mqtt__rpc_8h.html#a651f41878c47fd58b8ae08a49692d5d0" title="mqtt_rpc_set_ssid_pwd" alt="" coords="399,917,559,944"/>
+<area shape="rect" id="node18" href="$mqtt__rpc_8h.html#a93655988d0f1c02f278b77ab1bb57573" title="mqtt_rpc_ssid" alt="" coords="427,968,531,995"/>
+<area shape="rect" id="node19" href="$mqtt__rpc_8h.html#ab9db71238155955bc4dfbb2c7f93c9d2" title="mqtt_rpc_status" alt="" coords="421,56,537,83"/>
+<area shape="rect" id="node20" href="$mqtt__rpc_8h.html#acd6cfd98c940051391eb8c0bd2bbeca9" title="mqtt_rpc_uptime" alt="" coords="419,107,538,133"/>
+<area shape="rect" id="node21" href="$mqtt__rpc_8h.html#a550893f994cbbd9b6b745488f0c512ac" title="mqtt_rpc_vdd" alt="" coords="428,157,529,184"/>
+<area shape="rect" id="node22" href="$mqtt__rpc_8h.html#a6c4d0371a5542aa2dc9543fc7b829436" title="mqtt_rpc_version" alt="" coords="417,208,540,235"/>
+<area shape="rect" id="node23" href="$mqtt__rpc_8h.html#a482a5f229bd1fac0511a057bbf4363f2" title="mqtt_rpc_wifi_status" alt="" coords="407,259,550,285"/>
+<area shape="rect" id="node25" href="$kmp__request_8h.html#a048753ff9d6b448e2dcd8c85db0d6873" title="kmp_request_init" alt="" coords="615,1237,737,1264"/>
+<area shape="rect" id="node27" href="$cgiwifi_8h.html#a7c655a56f56ecebad923c5c4daeb7f1a" title="cgiSetup" alt="" coords="442,1069,515,1096"/>
+<area shape="rect" id="node29" href="$en61107__request_8h.html#a1d55ddd328b48520e19f10b6c0b6036c" title="en61107_get_received\l_energy_kwh" alt="" coords="403,1171,555,1213"/>
+</map>

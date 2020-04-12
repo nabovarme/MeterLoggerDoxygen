@@ -1,0 +1,28 @@
+<map id="led_stop_pattern" name="led_stop_pattern">
+<area shape="rect" id="node2" href="$ac__out_8c.html#a07e9d906599f62767ef1efb99d8fce11" title="ac_out_off_timer_func" alt="" coords="172,81,323,108"/>
+<area shape="rect" id="node8" href="$ac__out_8h.html#aa3b68ad0802843bd0874e86712d6fef4" title="ac_thermo_pwm" alt="" coords="188,157,307,184"/>
+<area shape="rect" id="node9" href="$led_8h.html#a4eae1e968117705e5b0009646c192a5c" title="led_destroy" alt="" coords="203,208,292,235"/>
+<area shape="rect" id="node14" href="$watchdog_8c.html#a47b6861ffbed37fef88aa644f10ba917" title="wifi_reconnect_timer_func" alt="" coords="787,259,962,285"/>
+<area shape="rect" id="node20" href="$wifi_8c.html#a1ef15ecd9e69811f6db10215c7196281" title="wifi_scan_done_cb" alt="" coords="181,309,314,336"/>
+<area shape="rect" id="node3" href="$ac__out_8h.html#a483eac71fafd6926d6e16c08b87530ef" title="ac_motor_valve_close" alt="" coords="577,5,729,32"/>
+<area shape="rect" id="node4" href="$ac__out_8h.html#aa17a09f7811a797293e31a39906ec1b0" title="ac_motor_valve_open" alt="" coords="579,107,728,133"/>
+<area shape="rect" id="node5" href="$ac__out_8h.html#aaa0444bb417d9a634d5304b267f4fcda" title="ac_off" alt="" coords="421,56,479,83"/>
+<area shape="rect" id="node6" href="$cron_8c.html#a2782af03df9b913cfa565a0770e1afe1" title="minute_timer_func" alt="" coords="589,56,718,83"/>
+<area shape="rect" id="node7" href="$cron_8h.html#ae130c5973bad35b56776750c7a34db12" title="cron_init" alt="" coords="839,56,910,83"/>
+<area shape="rect" id="node10" href="$utils_8h.html#abc584694613811efea7c661c9dcefe17" title="system_restart_defered" alt="" coords="371,208,529,235"/>
+<area shape="rect" id="node11" href="$cgiwifi_8c.html#a9d53126c0a5bdeb1318f081f1cca3a84" title="resetTimerCb" alt="" coords="603,208,704,235"/>
+<area shape="rect" id="node13" href="$mqtt__rpc_8h.html#ae3c71a438ecea4bb271bd1586af59452" title="mqtt_rpc_restart" alt="" coords="595,157,712,184"/>
+<area shape="rect" id="node12" href="$cgiwifi_8h.html#a7c655a56f56ecebad923c5c4daeb7f1a" title="cgiSetup" alt="" coords="838,208,911,235"/>
+<area shape="rect" id="node15" href="$watchdog_8h.html#a98ac743883b75c5bf36e0d6b0fe982fa" title="force_reset_wifi" alt="" coords="1026,259,1141,285"/>
+<area shape="rect" id="node16" href="$kmp__request_8c.html#a3f6b790a06b933b78f40ade5e9a16131" title="kmp_received_task" alt="" coords="1201,208,1335,235"/>
+<area shape="rect" id="node18" href="$watchdog_8c.html#aeb03c505b5b589ae4d89b2ae11dd1711" title="watchdog_timer_func" alt="" coords="1195,259,1341,285"/>
+<area shape="rect" id="node17" href="$kmp__request_8h.html#a048753ff9d6b448e2dcd8c85db0d6873" title="kmp_request_init" alt="" coords="1402,208,1523,235"/>
+<area shape="rect" id="node19" href="$watchdog_8h.html#ab148f2150b52df5b60e312dded3a2934" title="start_watchdog" alt="" coords="1407,259,1518,285"/>
+<area shape="rect" id="node21" href="$wifi_8c.html#ae7011f25db54676b86fefe2caa450a4a" title="wifi_scan_timer_func" alt="" coords="377,360,523,387"/>
+<area shape="rect" id="node22" href="$wifi_8c.html#a0d197abbbedf42c0522e20b43884c920" title="acl_check_packet" alt="" coords="1020,360,1147,387"/>
+<area shape="rect" id="node26" href="$wifi_8c.html#a2d61a3854e1f7d67dcbcb0c7da23c8cc" title="wifi_start_scan" alt="" coords="598,309,709,336"/>
+<area shape="rect" id="node23" href="$wifi_8c.html#a3cea38a15b267ddabc1e6d5cf72b5ae8" title="my_input_ap" alt="" coords="1220,360,1316,387"/>
+<area shape="rect" id="node24" href="$wifi_8c.html#aa87c06c3cbab2aa762551fcec59dc8f0" title="wifi_handle_event_cb" alt="" coords="1389,360,1536,387"/>
+<area shape="rect" id="node25" href="$wifi_8c.html#a574e5442f0b2b8f99c8d157836ab38ba" title="wifi_connect" alt="" coords="1584,335,1679,361"/>
+<area shape="rect" id="node27" href="$wifi_8c.html#a189ec83a0503a6fc45b102014a80403b" title="wifi_scan_timeout_timer_func" alt="" coords="777,360,972,387"/>
+</map>

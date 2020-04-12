@@ -1,0 +1,4 @@
+<map id="syscfg_t" name="syscfg_t">
+<area shape="rect" id="node2" href="$structcron__jobs__t.html" title="{cron_jobs_t\n|+ n\l|}" alt="" coords="31,233,121,311"/>
+<area shape="rect" id="node3" href="$structcron__job__t.html" title="{cron_job_t\n|+ minute\l+ hour\l+ day_of_month\l+ month\l+ day_of_week\l+ command\l+ command_params\l|}" alt="" coords="5,5,147,171"/>
+</map>

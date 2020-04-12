@@ -1,0 +1,4 @@
+<map id="scan_config" name="scan_config">
+<area shape="rect" id="node2" href="$unionwifi__scan__time__t.html" title="Aggregate of active &amp; passive scan time per channel. " alt="" coords="27,160,147,237"/>
+<area shape="rect" id="node3" href="$structwifi__active__scan__time__t.html" title="Range of active scan times per channel. " alt="" coords="5,5,168,97"/>
+</map>

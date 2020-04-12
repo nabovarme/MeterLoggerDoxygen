@@ -1,0 +1,6 @@
+<map id="readRegByte" name="readRegByte">
+<area shape="rect" id="node2" href="$espenc_8c.html#a655fbec696cb6a8e30069f066615d830" title="readOp" alt="" coords="273,5,337,32"/>
+<area shape="rect" id="node4" href="$espenc_8c.html#a7e04e867e5a788903adaca29045aa118" title="SetBank" alt="" coords="152,56,224,83"/>
+<area shape="rect" id="node3" href="$spi_8c.html#acebb579091ca980f217d3e5f3bd1f1d5" title="spi_transaction" alt="" coords="387,31,497,57"/>
+<area shape="rect" id="node5" href="$espenc_8c.html#aa384e05ea3543cb9fca318f6623952fc" title="writeOp" alt="" coords="272,56,339,83"/>
+</map>

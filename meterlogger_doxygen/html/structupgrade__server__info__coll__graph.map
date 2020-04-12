@@ -1,0 +1,5 @@
+<map id="upgrade_server_info" name="upgrade_server_info">
+<area shape="rect" id="node2" href="$structespconn.html" title="{espconn\n|+ type\l+ state\l+ proto\l+ recv_callback\l+ sent_callback\l+ link_cnt\l+ reverse\l+ proto\l|}" alt="" coords="75,248,190,428"/>
+<area shape="rect" id="node3" href="$struct__esp__udp.html" title="{_esp_udp\n|+ remote_port\l+ local_port\l+ local_ip\l+ remote_ip\l|}" alt="" coords="5,35,108,156"/>
+<area shape="rect" id="node4" href="$struct__esp__tcp.html" title="{_esp_tcp\n|+ remote_port\l+ local_port\l+ local_ip\l+ remote_ip\l+ connect_callback\l+ reconnect_callback\l+ disconnect_callback\l+ write_finish_fn\l|}" alt="" coords="133,5,285,185"/>
+</map>

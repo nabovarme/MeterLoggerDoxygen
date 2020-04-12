@@ -1,0 +1,5 @@
+<map id="writeBuf" name="writeBuf">
+<area shape="rect" id="node2" href="$espenc_8c.html#ab8597c7950c0283f785e57b4e02ad76f" title="chipDisable" alt="" coords="134,5,225,32"/>
+<area shape="rect" id="node3" href="$espenc_8c.html#a2239a3e52452ed0f0cd757d4ce5e4c05" title="chipEnable" alt="" coords="136,56,223,83"/>
+<area shape="rect" id="node4" href="$spi_8c.html#acebb579091ca980f217d3e5f3bd1f1d5" title="spi_transaction" alt="" coords="124,107,235,133"/>
+</map>

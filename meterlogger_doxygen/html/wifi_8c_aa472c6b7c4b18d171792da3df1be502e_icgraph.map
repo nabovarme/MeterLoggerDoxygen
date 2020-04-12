@@ -1,0 +1,8 @@
+<map id="wifi_scan_is_running" name="wifi_scan_is_running">
+<area shape="rect" id="node2" href="$kmp__request_8c.html#a3f6b790a06b933b78f40ade5e9a16131" title="kmp_received_task" alt="" coords="587,5,722,32"/>
+<area shape="rect" id="node4" href="$watchdog_8c.html#a47b6861ffbed37fef88aa644f10ba917" title="wifi_reconnect_timer_func" alt="" coords="196,56,371,83"/>
+<area shape="rect" id="node3" href="$kmp__request_8h.html#a048753ff9d6b448e2dcd8c85db0d6873" title="kmp_request_init" alt="" coords="776,5,897,32"/>
+<area shape="rect" id="node5" href="$watchdog_8h.html#a98ac743883b75c5bf36e0d6b0fe982fa" title="force_reset_wifi" alt="" coords="419,56,533,83"/>
+<area shape="rect" id="node6" href="$watchdog_8c.html#aeb03c505b5b589ae4d89b2ae11dd1711" title="watchdog_timer_func" alt="" coords="581,56,728,83"/>
+<area shape="rect" id="node7" href="$watchdog_8h.html#ab148f2150b52df5b60e312dded3a2934" title="start_watchdog" alt="" coords="781,56,892,83"/>
+</map>

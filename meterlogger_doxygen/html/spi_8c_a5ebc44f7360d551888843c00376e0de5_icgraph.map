@@ -1,0 +1,6 @@
+<map id="spi_tx_byte_order" name="spi_tx_byte_order">
+<area shape="rect" id="node2" href="$ext__spi__flash_8h.html#a292607e88dd8cb8213d0bad78679210d" title="ext_spi_init" alt="" coords="179,5,267,32"/>
+<area shape="rect" id="node3" href="$esp-open-sdk_2esp-open-lwip_2include_2netif_2driver_2spi_8h.html#a5b5feea007f57681d18d6fcd940ede27" title="spi_init" alt="" coords="191,56,254,83"/>
+<area shape="rect" id="node4" href="$espenc_8c.html#a81a1bda1746cf556eca33a6ab92ea851" title="enc28j60_init" alt="" coords="315,56,413,83"/>
+<area shape="rect" id="node5" href="$espenc_8c.html#a193505f7e2d8f132ca9698a32783fe93" title="espenc_init" alt="" coords="461,56,549,83"/>
+</map>

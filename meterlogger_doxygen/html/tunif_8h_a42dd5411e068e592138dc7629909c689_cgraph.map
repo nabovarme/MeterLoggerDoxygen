@@ -1,0 +1,5 @@
+<map id="tunif_del" name="tunif_del">
+<area shape="rect" id="node2" href="$netif_8h.html#a466eba613f29f50006edf9dc3516251a" title="netif_remove" alt="" coords="124,31,221,57"/>
+<area shape="rect" id="node3" href="$netif_8c.html#ac90f290edd005238d62aa94c4ac9dea3" title="netif_set_default" alt="" coords="269,5,388,32"/>
+<area shape="rect" id="node4" href="$netif_8c.html#a641d07ed8c31fe5306bc01605a6790cf" title="netif_set_down" alt="" coords="273,56,384,83"/>
+</map>

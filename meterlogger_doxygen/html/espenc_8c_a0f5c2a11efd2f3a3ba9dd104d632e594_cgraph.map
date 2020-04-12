@@ -1,0 +1,25 @@
+<map id="swint_Task" name="swint_Task">
+<area shape="rect" id="node2" href="$espenc_8c.html#a55dfa017402fc9454bf75d0536cb2425" title="enc_scoop_packets" alt="" coords="143,600,281,627"/>
+<area shape="rect" id="node3" href="$espenc_8c.html#abad8eb65a3bbaacff290a354199cd349" title="enc28j60_handle_packets" alt="" coords="329,397,501,424"/>
+<area shape="rect" id="node17" href="$espenc_8c.html#a7e04e867e5a788903adaca29045aa118" title="SetBank" alt="" coords="896,549,968,576"/>
+<area shape="rect" id="node18" href="$espenc_8c.html#aa384e05ea3543cb9fca318f6623952fc" title="writeOp" alt="" coords="1054,524,1121,551"/>
+<area shape="rect" id="node22" href="$gpio_8h.html#a0adef8a3e9d5c302d96d1ddc360f7c79" title="gpio_pin_intr_state_set" alt="" coords="337,651,493,677"/>
+<area shape="rect" id="node23" href="$espenc_8c.html#af925f259879dbba7c5d7b0eab062b34b" title="readRegByte" alt="" coords="718,651,817,677"/>
+<area shape="rect" id="node4" href="$pbuf_8h.html#ac6efc2aaeddfea6c95729dc86f785ba4" title="pbuf_alloc" alt="" coords="568,119,649,145"/>
+<area shape="rect" id="node13" href="$espenc_8c.html#a89cd52367e9b45f6d73b2b562b5be92d" title="readBuf" alt="" coords="575,271,642,297"/>
+<area shape="rect" id="node19" href="$user__interface_8h.html#adab1155f3a463f2b05a9bde65b37514f" title="system_os_post" alt="" coords="549,448,668,475"/>
+<area shape="rect" id="node20" href="$espenc_8c.html#af50077520ab35a01792daf94a89c5b9a" title="writeReg" alt="" coords="571,499,646,525"/>
+<area shape="rect" id="node5" href="$esp-open-lwip_2include_2lwip_2mem_8h.html#a1cb005c6c44b685b8025b329a6d2bcd4" title="mem_malloc" alt="" coords="719,43,815,69"/>
+<area shape="rect" id="node8" href="$memp_8h.html#a5b98c976852aa0eabda9fd588be56eb8" title="memp_malloc" alt="" coords="716,93,819,120"/>
+<area shape="rect" id="node9" href="$pbuf_8c.html#ab0dd696fb4b6bc65e548944584f1738b" title="pbuf_free" alt="" coords="729,144,805,171"/>
+<area shape="rect" id="node6" href="$sys_8h.html#a4d4eb9afe5965fa2661dd54ff55d616a" title="sys_mutex_lock" alt="" coords="873,5,991,32"/>
+<area shape="rect" id="node7" href="$sys_8h.html#a5568f68898fe9d5735f9ce2f665624fb" title="sys_mutex_unlock" alt="" coords="867,56,997,83"/>
+<area shape="rect" id="node10" href="$esp-open-lwip_2include_2lwip_2mem_8h.html#ab270bbe39e1996d7095be3a139620ce0" title="mem_free" alt="" coords="892,132,972,159"/>
+<area shape="rect" id="node12" href="$memp_8h.html#a9d30a969401eb0626105950d6e63f3bf" title="memp_free" alt="" coords="889,183,975,209"/>
+<area shape="rect" id="node11" href="$mem_8c.html#a24221009a2c00e9c3fa63eaa9444a076" title="plug_holes" alt="" coords="1045,132,1129,159"/>
+<area shape="rect" id="node14" href="$espenc_8c.html#ab8597c7950c0283f785e57b4e02ad76f" title="chipDisable" alt="" coords="722,195,813,221"/>
+<area shape="rect" id="node15" href="$espenc_8c.html#a2239a3e52452ed0f0cd757d4ce5e4c05" title="chipEnable" alt="" coords="724,245,811,272"/>
+<area shape="rect" id="node16" href="$spi_8c.html#acebb579091ca980f217d3e5f3bd1f1d5" title="spi_transaction" alt="" coords="1177,524,1288,551"/>
+<area shape="rect" id="node21" href="$espenc_8c.html#a9dde37e22459a5eb9237e0b3bd7b2fa8" title="writeRegByte" alt="" coords="717,499,818,525"/>
+<area shape="rect" id="node24" href="$espenc_8c.html#a655fbec696cb6a8e30069f066615d830" title="readOp" alt="" coords="1055,600,1119,627"/>
+</map>

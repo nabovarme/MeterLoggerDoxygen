@@ -1,0 +1,6 @@
+<map id="wifi_softap_set_config" name="wifi_softap_set_config">
+<area shape="rect" id="node2" href="$wifi_8c.html#a05bed02754a1afbba24a7441ba96ada0" title="wifi_softap_config" alt="" coords="205,31,332,57"/>
+<area shape="rect" id="node3" href="$cron_8c.html#a2782af03df9b913cfa565a0770e1afe1" title="minute_timer_func" alt="" coords="380,5,509,32"/>
+<area shape="rect" id="node5" href="$mqtt__rpc_8h.html#a1b7add080e121a194a82ca7fc1ac5d6a" title="mqtt_rpc_start_ap" alt="" coords="381,56,508,83"/>
+<area shape="rect" id="node4" href="$cron_8h.html#ae130c5973bad35b56776750c7a34db12" title="cron_init" alt="" coords="557,5,628,32"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="set_my_auto_connect" name="set_my_auto_connect">
+<area shape="rect" id="node2" href="$watchdog_8h.html#a98ac743883b75c5bf36e0d6b0fe982fa" title="force_reset_wifi" alt="" coords="428,31,543,57"/>
+<area shape="rect" id="node7" href="$utils_8h.html#abc584694613811efea7c661c9dcefe17" title="system_restart_defered" alt="" coords="212,120,371,147"/>
+<area shape="rect" id="node11" href="$watchdog_8c.html#a47b6861ffbed37fef88aa644f10ba917" title="wifi_reconnect_timer_func" alt="" coords="204,69,379,96"/>
+<area shape="rect" id="node3" href="$kmp__request_8c.html#a3f6b790a06b933b78f40ade5e9a16131" title="kmp_received_task" alt="" coords="598,5,733,32"/>
+<area shape="rect" id="node5" href="$watchdog_8c.html#aeb03c505b5b589ae4d89b2ae11dd1711" title="watchdog_timer_func" alt="" coords="592,56,739,83"/>
+<area shape="rect" id="node4" href="$kmp__request_8h.html#a048753ff9d6b448e2dcd8c85db0d6873" title="kmp_request_init" alt="" coords="787,5,908,32"/>
+<area shape="rect" id="node6" href="$watchdog_8h.html#ab148f2150b52df5b60e312dded3a2934" title="start_watchdog" alt="" coords="792,56,903,83"/>
+<area shape="rect" id="node8" href="$cgiwifi_8c.html#a9d53126c0a5bdeb1318f081f1cca3a84" title="resetTimerCb" alt="" coords="435,107,536,133"/>
+<area shape="rect" id="node10" href="$mqtt__rpc_8h.html#ae3c71a438ecea4bb271bd1586af59452" title="mqtt_rpc_restart" alt="" coords="427,157,544,184"/>
+<area shape="rect" id="node9" href="$cgiwifi_8h.html#a7c655a56f56ecebad923c5c4daeb7f1a" title="cgiSetup" alt="" coords="629,107,702,133"/>
+</map>

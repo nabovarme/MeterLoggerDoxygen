@@ -1,0 +1,17 @@
+<map id="sdk/include/user_interface.h" name="sdk/include/user_interface.h">
+<area shape="rect" id="node2" href="$os__type_8h.html" title="os_type.h" alt="" coords="387,603,465,629"/>
+<area shape="rect" id="node8" href="$esp-open-lwip_2include_2lwip_2ip__addr_8h.html" title="lwip/ip_addr.h" alt="" coords="195,80,297,107"/>
+<area shape="rect" id="node18" href="$esp-open-sdk_2sdk_2include_2queue_8h.html" title="queue.h" alt="" coords="436,80,504,107"/>
+<area shape="rect" id="node19" href="$spi__flash_8h.html" title="spi_flash.h" alt="" coords="529,80,614,107"/>
+<area shape="rect" id="node20" href="$gpio_8h.html" title="gpio.h" alt="" coords="639,80,696,107"/>
+<area shape="rect" id="node3" href="$ets__sys_8h.html" title="ets_sys.h" alt="" coords="139,677,217,704"/>
+<area shape="rect" id="node4" href="$c__types_8h.html" title="c_types.h" alt="" coords="45,752,124,779"/>
+<area shape="rect" id="node7" href="$eagle__soc_8h.html" title="eagle_soc.h" alt="" coords="148,752,240,779"/>
+<area shape="rect" id="node9" href="$opt_8h.html" title="lwip/opt.h" alt="" coords="184,229,263,256"/>
+<area shape="rect" id="node17" href="$def_8h.html" title="lwip/def.h" alt="" coords="129,155,208,181"/>
+<area shape="rect" id="node10" href="$lwipopts_8h.html" title="lwipopts.h" alt="" coords="220,379,301,405"/>
+<area shape="rect" id="node11" href="$esp-open-sdk_2esp-open-lwip_2include_2lwip_2debug_8h.html" title="lwip/debug.h" alt="" coords="164,304,259,331"/>
+<area shape="rect" id="node12" href="$arch_8h.html" title="lwip/arch.h" alt="" coords="93,379,178,405"/>
+<area shape="rect" id="node13" href="$cc_8h.html" title="arch/cc.h" alt="" coords="97,453,173,480"/>
+<area shape="rect" id="node14" href="$osapi_8h.html" title="osapi.h" alt="" coords="210,528,274,555"/>
+</map>

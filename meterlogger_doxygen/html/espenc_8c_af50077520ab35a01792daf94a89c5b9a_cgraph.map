@@ -1,0 +1,6 @@
+<map id="writeReg" name="writeReg">
+<area shape="rect" id="node2" href="$espenc_8c.html#a9dde37e22459a5eb9237e0b3bd7b2fa8" title="writeRegByte" alt="" coords="128,31,229,57"/>
+<area shape="rect" id="node3" href="$espenc_8c.html#a7e04e867e5a788903adaca29045aa118" title="SetBank" alt="" coords="277,5,349,32"/>
+<area shape="rect" id="node4" href="$espenc_8c.html#aa384e05ea3543cb9fca318f6623952fc" title="writeOp" alt="" coords="397,31,464,57"/>
+<area shape="rect" id="node5" href="$spi_8c.html#acebb579091ca980f217d3e5f3bd1f1d5" title="spi_transaction" alt="" coords="512,31,623,57"/>
+</map>

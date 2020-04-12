@@ -1,0 +1,16 @@
+<map id="writeOp" name="writeOp">
+<area shape="rect" id="node2" href="$espenc_8c.html#abad8eb65a3bbaacff290a354199cd349" title="enc28j60_handle_packets" alt="" coords="535,151,707,178"/>
+<area shape="rect" id="node3" href="$espenc_8c.html#a55dfa017402fc9454bf75d0536cb2425" title="enc_scoop_packets" alt="" coords="755,202,893,229"/>
+<area shape="rect" id="node6" href="$espenc_8c.html#a81a1bda1746cf556eca33a6ab92ea851" title="enc28j60_init" alt="" coords="775,474,873,501"/>
+<area shape="rect" id="node7" href="$espenc_8c.html#abc96fe33660001538919e64fc237796f" title="enc28j60_link_output" alt="" coords="549,709,693,735"/>
+<area shape="rect" id="node8" href="$espenc_8c.html#a7e04e867e5a788903adaca29045aa118" title="SetBank" alt="" coords="120,303,192,330"/>
+<area shape="rect" id="node14" href="$espenc_8c.html#a9dde37e22459a5eb9237e0b3bd7b2fa8" title="writeRegByte" alt="" coords="240,303,341,330"/>
+<area shape="rect" id="node4" href="$espenc_8c.html#a0f5c2a11efd2f3a3ba9dd104d632e594" title="swint_Task" alt="" coords="941,234,1031,261"/>
+<area shape="rect" id="node5" href="$espenc_8c.html#a193505f7e2d8f132ca9698a32783fe93" title="espenc_init" alt="" coords="1079,323,1167,350"/>
+<area shape="rect" id="node9" href="$espenc_8c.html#af925f259879dbba7c5d7b0eab062b34b" title="readRegByte" alt="" coords="241,531,340,558"/>
+<area shape="rect" id="node10" href="$espenc_8c.html#a6e1c907e7ece2b9b08be005d9a78089c" title="interrupt_handler" alt="" coords="561,557,680,583"/>
+<area shape="rect" id="node11" href="$espenc_8c.html#a6a6cf6fd5a57804e5c5f005babafbafd" title="readPhyByte" alt="" coords="389,506,487,533"/>
+<area shape="rect" id="node12" href="$espenc_8c.html#ae56f805c88da37e6a1471d779bc9bdb9" title="readReg" alt="" coords="403,607,473,634"/>
+<area shape="rect" id="node13" href="$espenc_8c.html#aebb49154d3d932c5ed1a81d6c1d45e1a" title="writePhy" alt="" coords="584,379,657,406"/>
+<area shape="rect" id="node15" href="$espenc_8c.html#af50077520ab35a01792daf94a89c5b9a" title="writeReg" alt="" coords="401,303,475,330"/>
+</map>

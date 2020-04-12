@@ -1,0 +1,26 @@
+<map id="mqtt/queue.c" name="mqtt/queue.c">
+<area shape="rect" id="node2" href="$esp-open-sdk_2sdk_2include_2queue_8h.html" title="queue.h" alt="" coords="5,379,73,405"/>
+<area shape="rect" id="node3" href="$proto_8h.html" title="proto.h" alt="" coords="704,80,767,107"/>
+<area shape="rect" id="node7" href="$esp8266_8h.html" title="esp8266.h" alt="" coords="601,229,683,256"/>
+<area shape="rect" id="node5" href="$typedef_8h.html" title="typedef.h" alt="" coords="723,229,799,256"/>
+<area shape="rect" id="node6" href="$ringbuf_8h.html" title="ringbuf.h" alt="" coords="663,155,735,181"/>
+<area shape="rect" id="node11" href="$c__types_8h.html" title="c_types.h" alt="" coords="568,1051,647,1077"/>
+<area shape="rect" id="node14" href="$ets__sys_8h.html" title="ets_sys.h" alt="" coords="397,976,476,1003"/>
+<area shape="rect" id="node16" href="$gpio_8h.html" title="gpio.h" alt="" coords="444,379,501,405"/>
+<area shape="rect" id="node17" href="$sdk_2include_2mem_8h.html" title="mem.h" alt="" coords="1069,304,1132,331"/>
+<area shape="rect" id="node19" href="$osapi_8h.html" title="osapi.h" alt="" coords="427,827,491,853"/>
+<area shape="rect" id="node22" href="$user__interface_8h.html" title="user_interface.h" alt="" coords="162,304,277,331"/>
+<area shape="rect" id="node31" href="$upgrade_8h.html" title="upgrade.h" alt="" coords="731,304,809,331"/>
+<area shape="rect" id="node32" href="$esp__sdk__ver_8h.html" title="esp_sdk_ver.h" alt="" coords="834,304,941,331"/>
+<area shape="rect" id="node33" href="$platform_8h.html" title="platform.h" alt="" coords="965,304,1045,331"/>
+<area shape="rect" id="node15" href="$eagle__soc_8h.html" title="eagle_soc.h" alt="" coords="391,1051,483,1077"/>
+<area shape="rect" id="node20" href="$os__type_8h.html" title="os_type.h" alt="" coords="335,901,413,928"/>
+<area shape="rect" id="node23" href="$esp-open-lwip_2include_2lwip_2ip__addr_8h.html" title="lwip/ip_addr.h" alt="" coords="315,379,417,405"/>
+<area shape="rect" id="node30" href="$spi__flash_8h.html" title="spi_flash.h" alt="" coords="149,379,234,405"/>
+<area shape="rect" id="node24" href="$opt_8h.html" title="lwip/opt.h" alt="" coords="347,528,425,555"/>
+<area shape="rect" id="node29" href="$def_8h.html" title="lwip/def.h" alt="" coords="404,453,483,480"/>
+<area shape="rect" id="node25" href="$lwipopts_8h.html" title="lwipopts.h" alt="" coords="308,677,389,704"/>
+<area shape="rect" id="node26" href="$esp-open-sdk_2esp-open-lwip_2include_2lwip_2debug_8h.html" title="lwip/debug.h" alt="" coords="357,603,452,629"/>
+<area shape="rect" id="node27" href="$arch_8h.html" title="lwip/arch.h" alt="" coords="417,677,502,704"/>
+<area shape="rect" id="node28" href="$cc_8h.html" title="arch/cc.h" alt="" coords="421,752,497,779"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="wifiStartScan" name="wifiStartScan">
+<area shape="rect" id="node2" href="$cgiwifi_8h.html#af6b908224e83a205c09864b0d73019ae" title="cgiWifiInit" alt="" coords="161,5,241,32"/>
+<area shape="rect" id="node5" href="$cgiwifi_8h.html#aa1b2a25d59b9eecb6f57b7d698686064" title="cgiWiFiScan" alt="" coords="153,56,249,83"/>
+<area shape="rect" id="node3" href="$httpd_8h.html#a74eb356c950228c2f024f081f7beb830" title="httpdInit" alt="" coords="297,5,367,32"/>
+<area shape="rect" id="node4" href="$httpd__user__init_8h.html#a6abf56883c8e03334f42bfb79aa8b095" title="httpd_user_init" alt="" coords="415,5,521,32"/>
+</map>

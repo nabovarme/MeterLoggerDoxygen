@@ -1,0 +1,26 @@
+<map id="enc28j60_init" name="enc28j60_init">
+<area shape="rect" id="node2" href="$espenc_8c.html#abc96fe33660001538919e64fc237796f" title="enc28j60_link_output" alt="" coords="152,391,296,418"/>
+<area shape="rect" id="node3" href="$gpio_8h.html#a0adef8a3e9d5c302d96d1ddc360f7c79" title="gpio_pin_intr_state_set" alt="" coords="344,543,500,570"/>
+<area shape="rect" id="node4" href="$espenc_8c.html#a6a6cf6fd5a57804e5c5f005babafbafd" title="readPhyByte" alt="" coords="373,239,471,266"/>
+<area shape="rect" id="node5" href="$espenc_8c.html#a9dde37e22459a5eb9237e0b3bd7b2fa8" title="writeRegByte" alt="" coords="548,138,649,164"/>
+<area shape="rect" id="node6" href="$espenc_8c.html#a7e04e867e5a788903adaca29045aa118" title="SetBank" alt="" coords="697,290,769,316"/>
+<area shape="rect" id="node7" href="$espenc_8c.html#aa384e05ea3543cb9fca318f6623952fc" title="writeOp" alt="" coords="817,442,884,468"/>
+<area shape="rect" id="node9" href="$espenc_8c.html#af925f259879dbba7c5d7b0eab062b34b" title="readRegByte" alt="" coords="549,594,648,620"/>
+<area shape="rect" id="node10" href="$espenc_8c.html#a655fbec696cb6a8e30069f066615d830" title="readOp" alt="" coords="701,594,765,620"/>
+<area shape="rect" id="node11" href="$espenc_8c.html#af50077520ab35a01792daf94a89c5b9a" title="writeReg" alt="" coords="385,138,459,164"/>
+<area shape="rect" id="node16" href="$gpio_8h.html#a50dfd53dc1a0e2afab4359a4cdcae406" title="gpio_register_set" alt="" coords="163,847,285,874"/>
+<area shape="rect" id="node17" href="$espenc_8c.html#a6e1c907e7ece2b9b08be005d9a78089c" title="interrupt_handler" alt="" coords="165,594,283,620"/>
+<area shape="rect" id="node19" href="$spi_8c.html#ab1b1ee052705fb788f5f312bb5dff9b3" title="spi_init" alt="" coords="193,898,255,924"/>
+<area shape="rect" id="node24" href="$spi_8c.html#aaf27c8705f9b667677d7c5f923c0333d" title="spi_mode" alt="" coords="185,948,263,975"/>
+<area shape="rect" id="node25" href="$espenc_8c.html#aebb49154d3d932c5ed1a81d6c1d45e1a" title="writePhy" alt="" coords="187,87,261,114"/>
+<area shape="rect" id="node12" href="$pbuf_8h.html#ab0a418a2392133e6b18c7b19f7c04500" title="pbuf_copy_partial" alt="" coords="360,340,484,367"/>
+<area shape="rect" id="node13" href="$espenc_8c.html#a921bffb078028c3ee1dd910fd41ec53e" title="writeBuf" alt="" coords="387,391,457,418"/>
+<area shape="rect" id="node8" href="$spi_8c.html#acebb579091ca980f217d3e5f3bd1f1d5" title="spi_transaction" alt="" coords="932,543,1043,570"/>
+<area shape="rect" id="node14" href="$espenc_8c.html#a2239a3e52452ed0f0cd757d4ce5e4c05" title="chipEnable" alt="" coords="555,340,642,367"/>
+<area shape="rect" id="node15" href="$espenc_8c.html#ab8597c7950c0283f785e57b4e02ad76f" title="chipDisable" alt="" coords="553,391,644,418"/>
+<area shape="rect" id="node18" href="$user__interface_8h.html#adab1155f3a463f2b05a9bde65b37514f" title="system_os_post" alt="" coords="363,644,481,671"/>
+<area shape="rect" id="node20" href="$spi_8c.html#a007018d09bc43ec6e4d5614bcc943334" title="spi_init_gpio" alt="" coords="375,948,469,975"/>
+<area shape="rect" id="node21" href="$spi_8c.html#abe2becfd7876ae0dae398b6ba50cade3" title="spi_clock" alt="" coords="383,999,461,1026"/>
+<area shape="rect" id="node22" href="$spi_8c.html#a5ebc44f7360d551888843c00376e0de5" title="spi_tx_byte_order" alt="" coords="359,847,485,874"/>
+<area shape="rect" id="node23" href="$spi_8c.html#acfa45a83322cfa93f1de5e872a1f0fb3" title="spi_rx_byte_order" alt="" coords="359,898,485,924"/>
+</map>
